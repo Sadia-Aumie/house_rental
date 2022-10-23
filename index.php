@@ -12,7 +12,11 @@ body, html {
 
 .bg {
   /* The image used */
+<<<<<<< HEAD
+  background-image: url("images/carousel.jpg");
+=======
   background-image: url("images/carousel.png");
+>>>>>>> 20f0f6bce7413ee98b451ccaf19887c8fb5ec3f2
 
   /* Full height */
   height: 60%; 
